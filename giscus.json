@@ -1,0 +1,4 @@
+{
+  "origins": ["https://irisli.dev"],
+  "originsRegex": ["https://iris-li-homepage(-[a-z0-9-]+)?\\.vercel\\.app", "https://[a-z0-9-]+-irisli0926s-projects\\.vercel\\.app", "http://localhost:[0-9]+"]
+}
